@@ -1,6 +1,6 @@
 {
   "id": "clone-entry",
-  "name": "Clone Entry - Test",
+  "name": "Clone Entry",
   "srcdoc": "./build/index.html",
   "sidebar": true
 }
